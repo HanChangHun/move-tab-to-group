@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420">
+<rect width="860" height="420" rx="12" fill="#1e1f22"/>
+<text x="30" y="36" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e3e5e8">A group exists on the right: the tab joins it</text>
+<rect x="30" y="50" width="330" height="150" rx="8" fill="#2b2d31"/>
+<rect x="38" y="58" width="186" height="134" rx="6" fill="#313338"/>
+<rect x="39" y="59" width="184" height="30" rx="5" fill="#26272b"/>
+<rect x="44" y="63" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="70.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">A</text>
+<rect x="100" y="63" width="52" height="22" rx="4" fill="#8b6cf6"/>
+<text x="126.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">B</text>
+<rect x="156" y="63" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="182.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">C</text>
+<rect x="48" y="104" width="133" height="5" rx="2.5" fill="#45474e"/>
+<rect x="48" y="118" width="100" height="5" rx="2.5" fill="#45474e"/>
+<rect x="48" y="132" width="116" height="5" rx="2.5" fill="#45474e"/>
+<rect x="230" y="58" width="122" height="134" rx="6" fill="#313338"/>
+<rect x="231" y="59" width="120" height="30" rx="5" fill="#26272b"/>
+<rect x="236" y="63" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="262.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">D</text>
+<rect x="240" y="104" width="82" height="5" rx="2.5" fill="#45474e"/>
+<rect x="240" y="118" width="61" height="5" rx="2.5" fill="#45474e"/>
+<rect x="240" y="132" width="71" height="5" rx="2.5" fill="#45474e"/>
+<line x1="379" y1="125.0" x2="471" y2="125.0" stroke="#8e9297" stroke-width="2"/>
+<path d="M471 119.0 L481 125.0 L471 131.0 Z" fill="#8e9297"/>
+<text x="430" y="113.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#e3e5e8" text-anchor="middle">Move tab to right group</text>
+<rect x="500" y="50" width="330" height="150" rx="8" fill="#2b2d31"/>
+<rect x="508" y="58" width="186" height="134" rx="6" fill="#313338"/>
+<rect x="509" y="59" width="184" height="30" rx="5" fill="#26272b"/>
+<rect x="514" y="63" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="540.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">A</text>
+<rect x="570" y="63" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="596.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">C</text>
+<rect x="518" y="104" width="133" height="5" rx="2.5" fill="#45474e"/>
+<rect x="518" y="118" width="100" height="5" rx="2.5" fill="#45474e"/>
+<rect x="518" y="132" width="116" height="5" rx="2.5" fill="#45474e"/>
+<rect x="700" y="58" width="122" height="134" rx="6" fill="#313338"/>
+<rect x="701" y="59" width="120" height="30" rx="5" fill="#26272b"/>
+<rect x="706" y="63" width="52" height="22" rx="4" fill="#8b6cf6"/>
+<text x="732.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">B</text>
+<rect x="762" y="63" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="788.0" y="78" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">D</text>
+<rect x="710" y="104" width="82" height="5" rx="2.5" fill="#45474e"/>
+<rect x="710" y="118" width="61" height="5" rx="2.5" fill="#45474e"/>
+<rect x="710" y="132" width="71" height="5" rx="2.5" fill="#45474e"/>
+<text x="30" y="236" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e3e5e8">No group on the right: a new one is split off</text>
+<rect x="30" y="250" width="330" height="150" rx="8" fill="#2b2d31"/>
+<rect x="38" y="258" width="314" height="134" rx="6" fill="#313338"/>
+<rect x="39" y="259" width="312" height="30" rx="5" fill="#26272b"/>
+<rect x="44" y="263" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="70.0" y="278" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">A</text>
+<rect x="100" y="263" width="52" height="22" rx="4" fill="#8b6cf6"/>
+<text x="126.0" y="278" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">B</text>
+<rect x="156" y="263" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="182.0" y="278" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">C</text>
+<rect x="48" y="304" width="235" height="5" rx="2.5" fill="#45474e"/>
+<rect x="48" y="318" width="176" height="5" rx="2.5" fill="#45474e"/>
+<rect x="48" y="332" width="206" height="5" rx="2.5" fill="#45474e"/>
+<line x1="379" y1="325.0" x2="471" y2="325.0" stroke="#8e9297" stroke-width="2"/>
+<path d="M471 319.0 L481 325.0 L471 331.0 Z" fill="#8e9297"/>
+<text x="430" y="313.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#e3e5e8" text-anchor="middle">Move tab to right group</text>
+<rect x="500" y="250" width="330" height="150" rx="8" fill="#2b2d31"/>
+<rect x="508" y="258" width="186" height="134" rx="6" fill="#313338"/>
+<rect x="509" y="259" width="184" height="30" rx="5" fill="#26272b"/>
+<rect x="514" y="263" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="540.0" y="278" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">A</text>
+<rect x="570" y="263" width="52" height="22" rx="4" fill="#3a3c42"/>
+<text x="596.0" y="278" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#b5bac1" text-anchor="middle" font-weight="400">C</text>
+<rect x="518" y="304" width="133" height="5" rx="2.5" fill="#45474e"/>
+<rect x="518" y="318" width="100" height="5" rx="2.5" fill="#45474e"/>
+<rect x="518" y="332" width="116" height="5" rx="2.5" fill="#45474e"/>
+<rect x="700" y="258" width="122" height="134" rx="6" fill="#313338" stroke="#8b6cf6" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="701" y="259" width="120" height="30" rx="5" fill="#26272b"/>
+<rect x="706" y="263" width="52" height="22" rx="4" fill="#8b6cf6"/>
+<text x="732.0" y="278" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">B</text>
+<rect x="710" y="304" width="82" height="5" rx="2.5" fill="#45474e"/>
+<rect x="710" y="318" width="61" height="5" rx="2.5" fill="#45474e"/>
+<rect x="710" y="332" width="71" height="5" rx="2.5" fill="#45474e"/>
+<text x="814" y="383" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#8b6cf6" text-anchor="end">new group</text>
+</svg>

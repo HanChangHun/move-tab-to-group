@@ -1,0 +1,10 @@
+{
+	"id": "move-tab-to-group",
+	"name": "Move Tab to Group",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Move the active tab into the tab group on its left or right. If there is no group on that side, a new one is split off for it.",
+	"author": "Changhun Han",
+	"authorUrl": "https://github.com/HanChangHun",
+	"isDesktopOnly": true
+}
